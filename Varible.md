@@ -1,5 +1,7 @@
 var: can live in the whole function, even in the()
+
 let: can only live in the block
+
 const: can only live in the function
 
     try to use let/const instead of the var
