@@ -35,6 +35,8 @@ in Js, x:y is equal to hashmap[x]=y
 
 curly braces : 花括号
 render: 渲染
+bind : 绑定
+
 
 
 
